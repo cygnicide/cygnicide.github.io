@@ -33,3 +33,43 @@ permalink: /hiroya
 layout: page
 title: "kaneki"
 permalink: /kaneki
+
+layout: page
+title: "ichiki"
+permalink: /ichiki
+
+layout: page
+title: "mitsuro"
+permalink: /mitsuro
+
+layout: page
+title: "makoto"
+permalink: /makoto
+
+layout: page
+title: "takaji"
+permalink: /takaji
+
+layout: page
+title: "motoki"
+permalink: /motoki
+
+layout: page
+title: "damien"
+permalink: /damien
+
+layout: page
+title: "luke"
+permalink: /luke
+
+layout: page
+title: "neo"
+permalink: /neo
+
+layout: page
+title: "cal"
+permalink: /cal
+
+layout: page
+title: "hiyori"
+permalink: /hiyori
