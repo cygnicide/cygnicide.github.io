@@ -73,3 +73,7 @@ permalink: /cal
 layout: page
 title: "hiyori"
 permalink: /hiyori
+
+layout: page
+title: "taeko"
+permalink: /taeko
