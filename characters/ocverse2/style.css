@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica;
+  background: url(https://i.ibb.co/bjjJCdTW/picmix-com-384863-ezgif-com-crop.gif)
+}
+table, th, td  {
+  width: 300px;
+  font-family: Helvetica;
+  font-size: 14px;
+  padding: 3px;
+  margin: auto;
+}
+
+section {
+  max-width: 550px;
+  margin: auto;
+}
+
+p {
+  font-size: 14px;
+}
+
+header {
+  background-color: black;
+  background-size: 100% 100%;
+ padding: 2px 8px 2px 8px;
+ text-align: left;
+  box-shadow: #DC0024 0px 1px;
+  font-family: Trebuchet MS;
+}
+
+a {
+  color: inherit;
+}
+
+div {
+  background-color: rgba(220, 0, 36, 0.6);
+  padding: 14px 8px 14px 8px;
+  color: white;
+  border: dashed black 1px;
+  border-radius: 6px;
+  margin: 0 10px 0 10px;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.charpage {
+  border: solid white 1px;
+  height: 100px; 
+  width: 100px; 
+  border-radius: 50px;
+}
+
+.name {
+  background: black;
+  padding: 10px; 
+  font-size: 28px;
+  margin: 0 10px 0 10px;
+  border-radius: 6px;
+  border: dashed rgba(220, 0, 36, 1) 1px;
+  font-family: Verdana;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info {
+  background: black;
+  padding: 8px; 
+  font-size: 18px;
+  text-align: left;
+  margin: 0 10px 0 10px;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+  border: dashed rgba(220, 0, 36, 1) 1px;
+  font-family: Verdana;
+}
